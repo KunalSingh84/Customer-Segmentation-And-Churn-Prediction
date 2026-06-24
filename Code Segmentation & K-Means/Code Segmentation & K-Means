@@ -1,1 +1,5 @@
-
+This folder contains the customer segmentation notebook using KMeans Clustering.
+Customers are grouped into 3 segments:
+- Budget Loyal Customers
+- High Risk New Customers
+- Loyal Premium Customers
