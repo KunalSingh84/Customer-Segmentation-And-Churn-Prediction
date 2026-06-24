@@ -1,1 +1,4 @@
-
+This folder contains the raw Telco Customer Churn dataset used in this project.
+File: Telco_customer_churn.xlsx
+Size: 7,043 customers and 33 features
+Source: Kaggle - Telco Customer Churn Dataset
