@@ -1,1 +1,4 @@
-
+This folder contains the churn prediction notebook using Random Forest Classifier.
+It covers model training, class imbalance handling, hyperparameter tuning, 
+feature importance plot and ROC Curve evaluation.
+AUC Score achieved: 0.84
